@@ -1,0 +1,5 @@
+vosk
+sounddevice
+numpy
+onnxruntime
+piper-tts
